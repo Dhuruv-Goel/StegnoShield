@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">StegnoShield</string>
+    <string name="encode_message">Encode Message</string>
+    <string name="select_image">Select Image</string>
+    <string name="enter_message">Enter message</string>
+    <string name="file_name_without_extension_i_e_jpg_etc">File Name without extension i.e. .jpg .etc</string>
+    <string name="encode">Encode</string>
+    <string name="save">Save</string>
+    <string name="share_encoded_image">Share Encoded Image</string>
+    <string name="decode_message">Decode Message</string>
+    <string name="decoded_message_will_appear_here">Decoded message will appear here</string>
+    <string name="select_image1">Select Image</string>
+    <string name="decode">Decode</string>
+    <string name="encode1">Encode</string>
+    <string name="stegno_shield">STEGNO-SHIELD</string>
+    <string name="decode1">Decode</string>
+</resources>
